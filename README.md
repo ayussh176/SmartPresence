@@ -1,6 +1,6 @@
-# 📌 SmartPresence – AI Powered Automated Attendance System
+# 📌 AttendX – AI Powered Automated Attendance System
 
-SmartPresence is an AI-driven automated attendance system designed for **offline classrooms (CCTV)** and **online classes (Zoom/Google Meet/Teams)**.  
+AttendX is an AI-driven automated attendance system designed for **offline classrooms (CCTV)** and **online classes (Zoom/Google Meet/Teams)**.  
 It leverages **YOLOv11** for face detection and **DeepFace** for face recognition, ensuring accurate, scalable, and proxy-free attendance tracking.  
 The system notifies students of their attendance in real-time and alerts teachers/admins in case of anomalies or system downtime.
 

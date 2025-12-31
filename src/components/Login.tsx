@@ -51,7 +51,7 @@ const Login = () => {
         <Card className="w-full max-w-md shadow-primary">
           <CardHeader className="text-center pb-2">
             <CardTitle className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Attendance Management
+              AttendX
             </CardTitle>
             <p className="text-muted-foreground mt-2">Choose your role to continue</p>
           </CardHeader>
